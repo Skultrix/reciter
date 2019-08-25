@@ -53,10 +53,12 @@ main {
     vertical-align: middle;
     background-color: #d46666;
     border-radius: 3px;
+    margin-left: 5px;
 }
 
 .check {
     background-color: #4dbd5e;
     vertical-align: middle;
     border-radius: 3px;
+    margin-left: 5px;
 }
